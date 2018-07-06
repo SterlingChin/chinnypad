@@ -1,0 +1,37 @@
+.table {
+    width: 40%;
+    padding: 15px;
+    text-align: center;
+}
+
+.tablerow {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+.type {
+    width: 50%;
+    text-align: left;
+}
+
+.day {
+    width: 10%;
+    text-align: right;
+}
+
+.value {
+    width: 40%;
+    text-align: right;
+}
+
+.totalsrow {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid black;
+    padding-top: 5px;
+}
+
+.bold {
+    font-weight: 600;
+}
